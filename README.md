@@ -1,2 +1,1 @@
-project-euler
-=============
+My modest attempt at Project Euler.
